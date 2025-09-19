@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\PedraPapelTesoura\MoonUtils\MoonUtils.csproj" />
+    <ProjectReference Include="..\MoonUtils\MoonUtils.csproj" />
   </ItemGroup>
 
 </Project>
